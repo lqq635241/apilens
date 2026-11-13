@@ -1,4 +1,4 @@
-# ApiLens · 接口契约地图
+# ApiAtlas · 接口契约地图
 
 贴一份 OpenAPI / Swagger 文档，立刻得到**资源关系图、接口清单、字段表、示例 JSON、TypeScript 类型和 MSW Mock**——前后端联调的“看不懂接口”问题，一次解决。
 
@@ -23,6 +23,8 @@ npm run dev
 ```
 
 打开 http://localhost:5174 ，点「载入示例」即可看到电商 API 的完整效果，或粘贴你自己的文档。
+
+![ApiLens · 接口契约地图](docs/preview.png)
 
 ## 典型用法
 
